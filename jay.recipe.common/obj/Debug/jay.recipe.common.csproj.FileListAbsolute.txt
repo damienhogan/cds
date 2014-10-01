@@ -1,0 +1,5 @@
+d:\test\jay.recipe\jay.recipe.common\obj\Debug\jay.recipe.common.csprojResolveAssemblyReference.cache
+d:\test\jay.recipe\jay.recipe.common\bin\Debug\jay.recipe.common.dll
+d:\test\jay.recipe\jay.recipe.common\bin\Debug\jay.recipe.common.pdb
+d:\test\jay.recipe\jay.recipe.common\obj\Debug\jay.recipe.common.dll
+d:\test\jay.recipe\jay.recipe.common\obj\Debug\jay.recipe.common.pdb

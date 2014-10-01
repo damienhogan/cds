@@ -1,0 +1,12 @@
+d:\test\jay.recipe\jay.recipe.service\obj\Debug\jay.recipe.service.csprojResolveAssemblyReference.cache
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\jay.recipe.service.dll
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\jay.recipe.service.pdb
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\jay.recipe.common.dll
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\jay.recipe.data.dll
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\jay.recipe.common.pdb
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\jay.recipe.data.pdb
+d:\test\jay.recipe\jay.recipe.service\obj\Debug\jay.recipe.service.dll
+d:\test\jay.recipe\jay.recipe.service\obj\Debug\jay.recipe.service.pdb
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\Newtonsoft.Json.dll
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\Newtonsoft.Json.pdb
+d:\test\jay.recipe\jay.recipe.service\bin\Debug\Newtonsoft.Json.xml
